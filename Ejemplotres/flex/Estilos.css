@@ -1,0 +1,87 @@
+.contenedor{
+    background-color: lightgoldenrodyellow;
+    padding: 15px;
+    border: 1px solid black;
+    display: flex;
+    /* flex-direction: column-reverse;
+    flex-wrap: wrap; */
+    flex-flow: row wrap;
+    width: 30%;
+    height: 30%;
+    /* align-items: start; */
+    justify-content: center;
+
+}
+
+.elemento{
+    border: 2px solid red;
+    background-color: aqua;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento1{
+    border: 2px solid pink;
+    background-color: red;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento2{
+    border: 2px solid orange;
+    background-color: pink;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento3{
+    border: 2px solid green;
+    background-color: orange;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento4{
+    border: 2px solid violet;
+    background-color: green;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento5{
+    border: 2px solid rgb(42, 99, 70);
+    background-color: violet;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento6{
+    border: 2px solid darkblue;
+    background-color: darkblue;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento7{
+    border: 2px solid darkkhaki;
+    background-color: khaki;
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+.elemento8{
+    border: 2px solid rgba(133, 10, 10, 0.556);
+    background-color: rgba(133, 10, 10, 0.556);
+    font-size: 15px;
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
